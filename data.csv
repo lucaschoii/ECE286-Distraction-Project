@@ -1,0 +1,49 @@
+Participant,Major,Year,Years speaking English,Other languages,Distraction,Reading Time (seconds),Errors Missed,Errors Incorrectly Identified,Errors Identified,Error Rate (identified / total),Reading speed (WPM)
+1,History,2,19,None,None,99,,,,0,199.3939394
+1,History,2,19,None,Visual,131,3,1,21,0.875,150.6870229
+2,History and human geography ,2,19,"French, Urdu, Sindhi ",None,90,,,,0,219.3333333
+2,History and human geography ,2,19,"French, Urdu, Sindhi ",Visual,124,11,0,13,0.5416666667,159.1935484
+3,Library and information science,1st masters,26,No,None,131,,,,0,150.6870229
+3,Library and information science,1st masters,26,No,Visual,125,2,0,22,0.9166666667,157.92
+4,History and polisci ,3,24,No,None,86,,,,0,229.5348837
+4,History and polisci ,3,24,No,Visual,78,7,0,14,0.6666666667,201.5384615
+5,Mechanical Engineering,5,8,Mandarin,None,121,,,,0,163.1404959
+5,Mechanical Engineering,5,8,Mandarin,Vibrational,137,10,0,28,0.7368421053,144.0875912
+6,ECE,2,20,French,None,103,,,,0,191.6504854
+6,ECE,2,20,French,Vibrational,144,8,0,30,0.7894736842,137.0833333
+7,ECE,4,21,None,None,88,,,,0,224.3181818
+7,ECE,4,21,None,Visual,108,3,0,35,0.9210526316,182.7777778
+8,Psychology ,1,18,Persian,None,115,,,,0,171.6521739
+8,Psychology ,1,18,Persian,Vibrational,139,7,0,31,0.8157894737,142.0143885
+9,CS,2,20,Chinese,None,108,,,,0,182.7777778
+9,CS,2,20,Chinese,Vibrational,125,2,0,36,0.9473684211,157.92
+10,Indy,2,20,Chinese,None,127,,,,0,155.4330709
+10,Indy,2,20,Chinese,Vibrational,154,13,0,25,0.6578947368,128.1818182
+11,Art history ,4,8,Spanish,None,134,,,,0,147.3134328
+11,Art history ,4,8,Spanish,Vibrational,155,12,0,26,0.6842105263,127.3548387
+12,Pre law polisci ethics,2,8,French Italian Spanish,None,98,,,,0,201.4285714
+12,Pre law polisci ethics,2,8,French Italian Spanish,Vibrational,112,2,0,36,0.9473684211,176.25
+13,Human bio,4,22,Bengali,None,108,,,,0,182.7777778
+13,Human bio,4,22,Bengali,Visual,121,8,0,28,0.7368421053,163.1404959
+14,Neuroscience and linguistics,5,22,Cantonese Chinese,None,124,,,,0,159.1935484
+14,Neuroscience and linguistics,5,22,Cantonese Chinese,Visual,159,2,0,36,0.9473684211,124.1509434
+15,Rotman,2,19,French Spanish mandarin,None,123,,,,0,160.4878049
+15,Rotman,2,19,French Spanish mandarin,Visual,155,11,0,27,0.7105263158,127.3548387
+16,Med sci,2,19,None,None,113,,,,0,174.6902655
+16,Med sci,2,19,None,Vibrational,138,6,0,32,0.8421052632,143.0434783
+17,Economics ,2,20,None,None,101,,,,0,195.4455446
+17,Economics ,2,20,None,Vibrational,143,1,0,37,0.9736842105,138.041958
+18,Med Sci,2,19,Hungarian,None,95,,,,0,207.7894737
+18,Med Sci,2,19,Hungarian,Vibrational,113,5,0,33,0.8684210526,174.6902655
+19,History ,2,20,Hungarian French,None,107,,,,0,184.4859813
+19,History ,2,20,Hungarian French,Vibrational,140,6,0,32,0.8421052632,141
+20,Rotman,2,21,None,None,100,,,,0,197.4
+20,Rotman,2,21,None,Vibrational,135,9,0,29,0.7631578947,146.2222222
+21,Economics,2,20,Portugese ,None,110,,,,0,179.4545455
+21,Economics,2,20,Portugese ,Visual,145,10,0,28,0.7368421053,136.137931
+22,Poli Sci Economics,2,19,German,None,98,,,,0,201.4285714
+22,Poli Sci Economics,2,19,German,Visual,130,6,0,32,0.8421052632,151.8461538
+23,"Stats, English Writing",2,20,Cantonese Mandarin Japanese,None,75,,,,0,263.2
+23,"Stats, English Writing",2,20,Cantonese Mandarin Japanese,Visual,92,3,0,35,0.9210526316,214.5652174
+24,poli sci pre law,2,19,mandarin,None,102,,,,0,193.5294118
+24,poli sci pre law,2,19,mandarin,Visual,145,8,0,30,0.7894736842,136.137931
